@@ -1,0 +1,18 @@
+body {background-color: #eeece0}
+
+nav {
+background-color: #ebe9dc;
+text-align: center;
+margin: 0;
+padding: 0;
+
+
+}
+
+nav li {
+display: inline-block;
+color: #bb7367;
+font-size: 20px;
+padding: 20px;
+
+}
