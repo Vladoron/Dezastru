@@ -16,3 +16,15 @@ font-size: 20px;
 padding: 20px;
 
 }
+
+table {
+border-collapse: collapse;
+width: 100%;
+
+}
+
+td, th {
+text-align: center;
+
+
+}
